@@ -121,9 +121,9 @@ Sample Response:
 
 Once the server is running:
 
-Swagger UI: http://localhost:8000/docs
+Swagger UI: https://sanskarjayale-churn-prediction-api.hf.space/docs
 
-ReDoc UI: http://localhost:8000/redoc
+ReDoc UI: https://sanskarjayale-churn-prediction-api.hf.space/redoc
 
 🐳 Docker & Deployment
 Build Docker Image
